@@ -15,3 +15,4 @@ pip install -r requirements
 4- Run the app:
 
 Streamlit run app.py
+<img width="1857" height="913" alt="Screenshot from 2025-09-28 15-03-34" src="https://github.com/user-attachments/assets/415c1cd3-0751-4124-85da-9939ca7995b8" />
